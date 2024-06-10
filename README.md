@@ -1,2 +1,2 @@
 # Library-Management-System-Database
-The objective of the Library Management System is to create a central database, so the system aims to streamline various library operations.
+The objective of the Library Management System is to create a central database, so the system aims to streamline various library operations. This includes managing member information, tracking the book collection (including individual copies), automating book borrowing and reservation processes, and potentially incorporating staff management features. Overall, it aims to make library functions more efficient and organized. The project is designed to track various aspects of a library's operation.
